@@ -1,4 +1,4 @@
-## Personal Portfolio
-## clone this project to personal for review and better navigation 
+# Sylvester-Portfolio
+## personal portfolio about my profession
 
-![Portfolio Website](https://)
+Portfolio Link("https://heuristic-curran-5f0a8a.netlify.app/ ")
