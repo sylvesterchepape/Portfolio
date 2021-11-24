@@ -22,7 +22,7 @@ const Footer = () => {
 <Slogan>Innovating one Project at a time</Slogan>
 </CompanyContainer>
 <SocialContainer>
-<SocialIcons href="https://github.com/sylvesterchepape">
+<SocialIcons href="https://github.com/sylvesterchepape/Portfolio ">
       <AiFillGithub size="3rem" />
  </SocialIcons>
   <SocialIcons href="https://twitter.com">
