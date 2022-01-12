@@ -12,8 +12,8 @@ const Hero = (props) => (
        Sylvester Chepape's Portfolio
      </SectionTitle>
      <SectionText>
-    Bsc in Computer Science and Statistics recent graduate seeking for software engineering
-    internship full-time at SovTech campany . analytical by nature, detail-oriented,and passionate
+    Bsc in Computer Science and Statistics recent graduate seeking for IT
+    internship full-time at Your campany . analytical by nature, detail-oriented,and passionate
     about coding and technology in general with strong computer science fundamental. Outgoing
     personality and related easily with all levels of co-worker and customers.Reliable self-starter that
     can be counted on to meet deadlines.
