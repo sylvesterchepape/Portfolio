@@ -10,7 +10,7 @@ const Technologies = () =>  (
   <SectionTitle>Technologies</SectionTitle>
   <SectionText>
   Am hard worker inspired by innovation,I've worked with a range a technology during my Studied and beyond academics to be competetive and for personal Growth.
-  From backend to design to front-end.
+  From backend to front-end Development.
     </SectionText>
 <List>
   <ListItem>
@@ -36,7 +36,11 @@ const Technologies = () =>  (
       <ListTitle>Back-End</ListTitle>
       <ListParagraph>
         Experience with <br />
-        Node.js and databases
+        Node.js,Asp.netcore 
+        </ListParagraph>
+        <ListParagraph>
+        Experience with <br />
+        Firebase ,MongoDB ,MySql
         </ListParagraph>
 
     </ListContainer>
@@ -50,7 +54,7 @@ const Technologies = () =>  (
         Experience with <br />
         React.js and NextJS<br />
 
-        Bootstrap <br />
+        Bootstrap 4 <br />
         CSS3/HTML5 <br />
         Jquery
         </ListParagraph>
