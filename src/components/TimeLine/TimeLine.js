@@ -49,7 +49,7 @@ const Timeline = () => {
       <SectionText>
       My Name is Sylvester Chepape ,I grew up in a small town in Limpopo called Botlokwa most people have never heard of.I attended my high school at sefoloko Secondary.
       I graduated from  University Of Limpopo Year ago with Bsc In Computer Science and Statistics,
-      Now, I’m Seeking for Junior/Internship at competetive organisation like TNT Solution for Developer position, Where I can Utilise my skills and gain experience.I have applied for this job because I believe the skills, qualities I have are a strong match for the job description.
+      Now, I’m Seeking for Junior/Internship at competetive organisation like TAS TECH INNOVATIONS for Developer position, Where I can Utilise my skills and gain experience.I have applied for this job because I believe the skills, qualities I have are a strong match for the job description.
 
       Over the years, I have built up lots of skills and qualities that I believe will be of benefit to your organization.
       I am a very strong team worker and I understand that in order to achieve difficult projects and tasks, you must work with other people.
