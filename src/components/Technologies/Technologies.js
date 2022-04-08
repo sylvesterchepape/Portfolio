@@ -73,6 +73,22 @@ const Technologies = () =>  (
 
     </ListContainer>
     </ListItem>
+
+    <ListItem>
+    <DiZend size ="3rem"/> 
+    <ListContainer>
+      <ListTitle>Technical skills</ListTitle>
+      <ListParagraph>
+        Troubleshooting<br/>
+        Configuring VOIP<br/>
+        Ms server<br/>
+        System documentation<br/>
+        
+
+        </ListParagraph>
+
+    </ListContainer>
+    </ListItem>
 </List>
 
 </Section>

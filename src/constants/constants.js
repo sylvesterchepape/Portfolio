@@ -39,8 +39,8 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2016, text: 'Completed Matric with Physical Science and Mathematics Stream', },
-  { year: 2017, text: 'Started My Computer science Degree', },
+  { year: 2017, text: 'enroll for Bsc Computer science Degree', },
   { year: 2018, text: 'Started learning coding and build Programming projects and attend online courses', },
   { year: 2020, text: 'Graduated with BSC in Computer Science and Statistics', },
-  { year: 2021, text: 'Doing my Internship at Outsourcing Expert(Outex) till present', },
+  { year: 2021, text: 'Doing my IT Internship at Outsourcing Expert(Outex)', },
 ];
